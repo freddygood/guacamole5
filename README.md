@@ -27,6 +27,10 @@ Assumed that the file sets.zip unzipped into the directory dataset
 ./script.sh -w dataset/watermark.png -d dataset/grison -f 2
 ./script.sh -w dataset/watermark.png -D dataset
 ./script.sh -w dataset/watermark.png -F datasets.txt
+
+# cat datasets.txt
+datasets/grison
+datasets/sand-cat
 ```
 
 ## Suggestions:
